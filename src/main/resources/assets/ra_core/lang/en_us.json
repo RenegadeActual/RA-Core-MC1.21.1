@@ -1,0 +1,13 @@
+{
+  "_comment1": "Items",
+  "item.ra_core.black_opal": "Black Opal",
+  "item.ra_core.raw_black_opal": "Raw Black Opal",
+
+  "_comment4": "BlockItems",
+  "block.ra_core.black_opal_block": "Block of Black Opal",
+  "block.ra_core.raw_black_opal_block": "Block of Raw Black Opal",
+
+  "_comment3": "Creative Mode Tabs",
+  "itemGroup.ra_core.black_opal_items_tab": "RACore Items",
+  "itemGroup.ra_core.black_opal_blocks_tab": "RACore Blocks"
+}
